@@ -11,10 +11,10 @@ https://tuprd-my.sharepoint.com/:f:/g/personal/tug85766_temple_edu/EjHfsxkNgvNGr
 # Dataset description
 The dataset id divided into following four categories:
 ## Good handwritng
-<img https://user-images.githubusercontent.com/106024530/189512424-f280e4be-a835-43c8-875d-a231fc1de925.png width="50%" height="50%">
 
 ## Handwriting with lines
-![2e0aeaf2-6dc4-4d83-9c0e-4724ac71c31c-trans](https://user-images.githubusercontent.com/106024530/189512427-847d0723-c097-446e-84d5-40a45c4adc67.png){:height="36px" width="36px"}.
+![2e0aeaf2-6dc4-4d83-9c0e-4724ac71c31c-trans]<img src=https://fullpath/assets/yourgif.gif](https://user-images.githubusercontent.com/106024530/189512427-847d0723-c097-446e-84d5-40a45c4adc67.png" width="400" height="790">
+
 ![8f53d4d7-bd1a-4dc6-8bf4-cb7882edd129-trans](https://user-images.githubusercontent.com/106024530/189512431-4a4832d5-50e7-490e-9108-301ff3380f11.png)
 
 ## Joint handwritng
