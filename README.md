@@ -11,16 +11,17 @@ https://tuprd-my.sharepoint.com/:f:/g/personal/tug85766_temple_edu/EjHfsxkNgvNGr
 # Dataset description
 The dataset id divided into following four categories:
 ## Good handwritng
-<img src="https://github.com/sidrahhanif/Signed-crads-personalized-handwritten-messges-images/blob/main/images/0dcf760d-fbf3-477c-89d6-3d8649789972-trans.png"  width="500" height="500">
+<img src="https://github.com/sidrahhanif/Signed-crads-personalized-handwritten-messges-images/blob/main/images/good.png"  width="500" height="500">
 
 ## Handwriting with lines
 
-
+<img src="https://github.com/sidrahhanif/Signed-crads-personalized-handwritten-messges-images/blob/main/images/lines.png"  width="500" height="500">
 
 
 ## Joint handwritng
-
+<img src="https://github.com/sidrahhanif/Signed-crads-personalized-handwritten-messges-images/blob/main/images/joint.png"  width="500" height="500">
 
 ## handwritng with black artifacts
 
 
+<img src="https://github.com/sidrahhanif/Signed-crads-personalized-handwritten-messges-images/blob/main/images/black_background2.png"  width="500" height="500">
