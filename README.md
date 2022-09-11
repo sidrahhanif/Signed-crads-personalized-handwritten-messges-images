@@ -11,6 +11,7 @@ https://tuprd-my.sharepoint.com/:f:/g/personal/tug85766_temple_edu/EjHfsxkNgvNGr
 # Dataset description
 The dataset id divided into following four categories:
 ## Good handwritng
+<img src="https://github.com/sidrahhanif/Signed-crads-personalized-handwritten-messges-images/blob/main/images/0dcf760d-fbf3-477c-89d6-3d8649789972-trans.png"  width="300" height="300">
 
 ## Handwriting with lines
 
