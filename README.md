@@ -11,7 +11,18 @@ https://tuprd-my.sharepoint.com/:f:/g/personal/tug85766_temple_edu/EjHfsxkNgvNGr
 # Dataset description
 The dataset id divided into following four categories:
 ## Good handwritng
+![0de9a490-bfd1-4f7f-a7ee-3dbf2ae042b9-trans](https://user-images.githubusercontent.com/106024530/189512412-382e8982-765c-426d-96a9-177a57c49388.png)
+![0e7b7d75-2687-49b8-af6c-97d187e96922-trans](https://user-images.githubusercontent.com/106024530/189512424-f280e4be-a835-43c8-875d-a231fc1de925.png)
+
 ## Handwriting with lines
+![2e0aeaf2-6dc4-4d83-9c0e-4724ac71c31c-trans](https://user-images.githubusercontent.com/106024530/189512427-847d0723-c097-446e-84d5-40a45c4adc67.png)
+![8f53d4d7-bd1a-4dc6-8bf4-cb7882edd129-trans](https://user-images.githubusercontent.com/106024530/189512431-4a4832d5-50e7-490e-9108-301ff3380f11.png)
+
 ## Joint handwritng
+![6ba6703d-b4eb-4f61-bb23-c8d1da327c29-trans](https://user-images.githubusercontent.com/106024530/189512432-f8d11e93-f499-49e8-858d-65776771611f.png)
+![a25feae3-2ba1-47d4-8a48-c526c878b483-trans](https://user-images.githubusercontent.com/106024530/189512434-6003cc49-00e1-42e4-b6f3-a2b5115b9816.png)
+
 ## handwritng with black artifacts
 
+![0b381f8b-fab5-41e7-bbd0-7533d89c875f-trans](https://user-images.githubusercontent.com/106024530/189512438-3e213a72-3b93-4f50-8a4e-c53c0e494128.png)
+![49a811c4-d825-4568-9a80-35726ab90cb1-trans](https://user-images.githubusercontent.com/106024530/189512441-947099ca-f397-4906-807b-c454165275c5.png)
